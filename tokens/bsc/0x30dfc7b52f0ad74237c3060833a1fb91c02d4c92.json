@@ -1,0 +1,34 @@
+{
+  "symbol": "PEP",
+  "address": "0x30dfc7b52f0ad74237c3060833a1fb91c02d4c92",
+  "decimals": 9,
+  "name": "PEPoW Finance",
+  "type": "BEP20",
+  "ens_address": "",
+  "website": "https://pepow.finance",
+  "logo": {
+    "src": "https://pepow.finance/img/pepow-cmc-logo.png",
+    "width": "32",
+    "height": "32",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@pepow.finance",
+    "url": "https://pepow.finance"
+  },
+  "social": {
+    "blog": "https://medium.com/@pepow.finance",
+    "chat": "https://t.me/PEPOWOfficial",
+    "facebook": "",
+    "forum": "https://bitcointalk.org/index.php?topic=5453783",
+    "github": "https://github.com/Pomo-Protocol/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/PEPoW_Finance",
+    "slack": "",
+    "telegram": "https://t.me/pepowpow",
+    "twitter": "https://twitter.com/pepowchain",
+    "youtube": ""
+  }
+}
